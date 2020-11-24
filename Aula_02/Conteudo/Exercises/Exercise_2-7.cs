@@ -11,7 +11,7 @@ namespace Aula_02.Conteudo.Exercises
             Console.WriteLine("Type the Fahrenheit temperature to convert to Celsius.");
             double f = double.Parse(Console.ReadLine());
 
-            double c = (f - 32) * 5 / 9;
+            double c = (f - 32) * (5.0 / 9);
             Console.WriteLine(c+ "°C");
         }
     }
