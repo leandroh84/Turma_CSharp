@@ -23,7 +23,7 @@ namespace Aula_04.Conteudo.Exercises
                 }
             }
 
-            if (count ==0)
+            if (count == 0)
                 Console.WriteLine("Prime Number");
             else
                 Console.WriteLine("No Prime");
