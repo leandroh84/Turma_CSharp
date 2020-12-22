@@ -6,6 +6,9 @@ namespace Aula_06.Conteudo.Exercises
 {
     class Exercise_06_01
     {
+       /* Escreva uma função que receba como parâmetro dois números inteiros e retorne -1 se o
+          primeiro for menor que o segundo número, 0 se forem iguais ou 1 se o primeiro for maior que
+          o segundo número.*/
         static void Main(string[] args)
         {
             Numbers();
